@@ -1,6 +1,6 @@
 # My CVEs List
 
-## TOTOLink
+## TOTOLINK
 
 A720R Login bypass [link](router/totolink/A720R_login_bypass.md)
 
