@@ -2,5 +2,5 @@
 
 ## TOTOLink
 
-A720R Login bypass [link](blob/master/router/totolink/A720R_login_bypass.md)
+A720R Login bypass [link](router/totolink/A720R_login_bypass.md)
 
