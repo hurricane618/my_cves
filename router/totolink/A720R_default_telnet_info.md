@@ -6,7 +6,7 @@ Product:A720R
 
 Version:A720R_Firmware(V4.1.5cu.470_B20200911)
 
-Type:Default telnet username and password
+Type:Unsafe telnet settings
 
 Author:Huizhao Wang, Chuan Qin
 
@@ -14,7 +14,7 @@ Institution:wanghuizhao@iie.ac.cn, qinchuan@iie.ac.cn
 
 ## Vulnerability description
 
-We found a default telnet username and password vulnerability in TOTOLINK Technology router with firmware which was released recently, allows remote attackers to login shell by using default username and password.
+We found a default telnet username and password and telnet service can be started without authorization vulnerability in TOTOLINK Technology router with firmware which was released recently, allows remote attackers to login shell by using default username and password.
 
 ![image-20210616094749614](A720R_default_telnet_info.assets/image-20210616094749614.png)
 
