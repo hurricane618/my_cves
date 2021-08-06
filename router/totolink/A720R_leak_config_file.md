@@ -27,3 +27,7 @@ Then, sensitive information such as username and password can be found in the de
 ## POC
 
 Sending GET request http://192.168.0.1/cgi-bin/ExportSettings.sh , this shell script can return the apmib configuration file. Then, we can decode the configuration file and get username, password.
+
+## CVE info
+
+CVE-2021-35326

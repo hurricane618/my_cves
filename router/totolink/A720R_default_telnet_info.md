@@ -42,3 +42,7 @@ Connection: close
 ```
 
 Next, `telnet 192.168.0.1` enter the default username and password(root:cs2012) to log in to the shell.
+
+## CVE info
+
+CVE-2021-35327
